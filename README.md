@@ -9,3 +9,7 @@ Welcome to the world of strategic gaming! This project features a classic Tic Ta
 * Clean and Intuitive Interface: The game boasts a user-friendly design, making it easy to understand and play without sacrificing aesthetic appeal.
 * Versatile and Customizable Codebase: The code is structured for clarity and modularity, making it easy to understand and customize for your own projects.
 
+## How to Play
+Player Turns: Click on the grid to place your 'X' or 'O' during your turn.
+
+Victory Condition: Aim for three in a row horizontally, vertically, or diagonally to win the game.
