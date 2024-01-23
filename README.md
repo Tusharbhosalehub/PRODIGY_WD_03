@@ -20,3 +20,5 @@ Victory Condition: Aim for three in a row horizontally, vertically, or diagonall
 * CSS: Enhances the visual appeal and responsiveness of the game interface.
 
 * JavaScript: Drives the game logic.
+
+## Getting Started
