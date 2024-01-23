@@ -22,3 +22,4 @@ Victory Condition: Aim for three in a row horizontally, vertically, or diagonall
 * JavaScript: Drives the game logic.
 
 ## Getting Started
+To run this Tic Tac Toe game locally, clone the repository 
