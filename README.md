@@ -26,7 +26,9 @@ To run this Tic Tac Toe game locally, clone the repository and open the index.ht
 Explore the codebase, experiment with customization, and challenge your friends or the AI to a game.
 
 ## Contribution
-Contributions are welcome! Whether you're interested in fixing bugs,
+Contributions are welcome! Whether you're interested in fixing bugs, improving the user interface, or adding new features, your input is valued. Please refer to the Contribution Guidelines for more details.
+
+
 
 
 
