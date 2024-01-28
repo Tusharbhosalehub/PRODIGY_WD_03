@@ -10,9 +10,9 @@ Welcome to the world of strategic gaming! This project features a classic Tic Ta
 * Versatile and Customizable Codebase: The code is structured for clarity and modularity, making it easy to understand and customize for your own projects.
 
 ## How to Play
-Player Turns: Click on the grid to place your 'X' or 'O' during your turn.
+* Player Turns: Click on the grid to place your 'X' or 'O' during your turn.
 
-Victory Condition: Aim for three in a row horizontally, vertically, or diagonally to win the game.
+ Victory Condition: Aim for three in a row horizontally, vertically, or diagonally to win the game.
 
 ## Technologies Used
 * HTML: Responsible for the structure and layout of the game board.
