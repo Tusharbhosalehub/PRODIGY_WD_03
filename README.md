@@ -12,7 +12,7 @@ Welcome to the world of strategic gaming! This project features a classic Tic Ta
 ## How to Play
 * Player Turns: Click on the grid to place your 'X' or 'O' during your turn.
 
- Victory Condition: Aim for three in a row horizontally, vertically, or diagonally to win the game.
+* Victory Condition: Aim for three in a row horizontally, vertically, or diagonally to win the game.
 
 ## Technologies Used
 * HTML: Responsible for the structure and layout of the game board.
