@@ -1,6 +1,4 @@
-# PRODIGY_WD_03
-
-# Tic Tac Toe Game 🎮
+# PRODIGY_WD_0 Tic Tac Toe Game 🎮
 ## Overview
 Welcome to the world of strategic gaming! This project features a classic Tic Tac Toe game implemented with HTML, CSS, and JavaScript. Dive into the nostalgia of this timeless game, revamped with a modern touch. Whether you're a seasoned player or new to the game, this project offers a delightful and engaging experience.
 
