@@ -1,6 +1,6 @@
 # Tic Tac Toe Game 🎮
 ## Overview
-Welcome to the world of strategic gaming! This project features a classic Tic Tac Toe game implemented with HTML, CSS, and JavaScript. Dive into the nostalgia of this timeless game, revamped with a modern touch. Whether you're a seasoned player or new to the game, this project offers a delightful and engaging experience.
+Welcome to the world of strategic gaming! This project features a classic Tic Tac Toe game implemented with HTML, CSS, and JavaScript. Dive into the nostalgia of this timeless game,revamped with a modern touch. Whether you're a seasoned player or new to the game, this project offers a delightful and engaging experience.
 
 ## Features
 * Responsive Design: Enjoy a seamless gaming experience on any device, from desktops to mobile phones.
